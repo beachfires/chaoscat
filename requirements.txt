@@ -1,2 +1,2 @@
 configparser==3.8.1
-requests==2.19.1
+requests==2.31.0
